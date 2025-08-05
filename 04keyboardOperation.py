@@ -1,4 +1,4 @@
-import pyautogui as py
+# import pyautogui as py
 # import time
 
 # time.sleep(3)
@@ -10,10 +10,11 @@ import pyautogui as py
 
 # dino  game chrome
 # time.sleep(3)
-
+#
 # for i in range(20):
 #     py.press("space")
 #     time.sleep(0.5)
 
 # Screenshot in pyautogui
-py.screenshot("screenshot.png")
+# py.screenshot("ss.png")
+# returns a Pillow/PIL Image object

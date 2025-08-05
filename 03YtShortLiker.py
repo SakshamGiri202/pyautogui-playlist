@@ -4,16 +4,17 @@ import time
 
 # yt shorts liker example
 time.sleep(3)
+py.moveTo(988, 580)
+py.doubleClick()
 
-py.click()
 
-for i in range(10):
-    py.moveTo(2141, 949)
+for i in range(100):
+    py.moveTo(1329, 469)
     time.sleep(1)
-    py.doubleClick()
+    py.click()
     time.sleep(1)
-    py.moveTo(2995, 1040)
+    py.moveTo(1852, 704)
     time.sleep(1)
     py.leftClick()
-#
+
 # print(py.position())
